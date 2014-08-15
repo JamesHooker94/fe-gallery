@@ -1,0 +1,45 @@
+{
+
+    "name": "fe-basic-event",
+    "authors": [
+   
+        "James Hooker"
+
+    ],
+
+    "description": "Basic Event PHP Include",
+    "main": "mainevent.php",
+    "repository": {
+
+        "type" : "git",
+        "url" : "https://github.com/JamesHooker94/fe-basic-event.git"
+
+    },
+
+    "keywords": [
+
+        "Event",
+        "feed",
+        "php",
+        "Propeller",
+        "propcomm",
+        "propeller",
+        "propcom"
+
+    ],
+
+    "license": "Public",
+    "homepage": "https://github.com/JamesHooker94/fe-basic-event.git",
+
+    "ignore" : [
+
+    	"/httpdocs/"
+    ],
+
+    "install" : {
+
+        "mainevent.php" : "fuel/app/views/inc"
+
+    }
+
+}
