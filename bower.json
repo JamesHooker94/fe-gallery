@@ -12,7 +12,7 @@
     "repository": {
 
         "type" : "git",
-        "url" : "https://github.com/JamesHooker94/fe-basic-event.git"
+        "url" : "https://github.com/JamesHooker94/fe-gallery.git"
 
     },
 
@@ -29,7 +29,7 @@
     ],
 
     "license": "Public",
-    "homepage": "https://github.com/JamesHooker94/fe-basic-event.git",
+    "homepage": "https://github.com/JamesHooker94/fe-gallery.git",
 
     "ignore" : [
 
@@ -38,7 +38,9 @@
 
     "install" : {
 
-        "mainevent.php" : "fuel/app/views/inc"
+        "gallery.php" : "fuel/app/views/inc",
+        "gallery.js" : "httpdocs/assets/js/lib",
+        "_gallery.scss" : "httpdocs/assets/sass/modules"
 
     }
 
