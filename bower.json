@@ -1,14 +1,14 @@
 {
 
-    "name": "fe-basic-event",
+    "name": "fe-gallery",
     "authors": [
    
         "James Hooker"
 
     ],
 
-    "description": "Basic Event PHP Include",
-    "main": "mainevent.php",
+    "description": "Basic Gallery",
+    "main": "gallery.php",
     "repository": {
 
         "type" : "git",
@@ -18,9 +18,9 @@
 
     "keywords": [
 
-        "Event",
+        "Gallery",
         "feed",
-        "php",
+        "images",
         "Propeller",
         "propcomm",
         "propeller",
