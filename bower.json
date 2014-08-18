@@ -1,13 +1,13 @@
 {
 
-    "name": "fe-gallery",
+    "name": "fe-gallery-grid",
     "authors": [
    
         "James Hooker"
 
     ],
 
-    "description": "Basic Gallery",
+    "description": "Gallery Grid",
     "main": "gallery.php",
     "repository": {
 
